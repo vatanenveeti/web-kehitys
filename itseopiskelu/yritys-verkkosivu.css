@@ -1,0 +1,30 @@
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 30px;
+    background-image: linear-gradient(to right, rgb(0, 255, 8), rgb(0, 34, 255));
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    gap: 25px;
+}
+
+#home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background-image: linear-gradient(to right, rgb(255, 0, 251), rgb(251, 255, 0));
+    font-family: "Comic Relief", system-ui;
+    cursor: url(""), auto;
+}
+
+a:hover {
+  background-color: yellow;
+}
