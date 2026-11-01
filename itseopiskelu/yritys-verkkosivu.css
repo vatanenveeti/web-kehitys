@@ -1,9 +1,23 @@
+body {
+    font-family: "Comic Relief", system-ui;
+    background-image: url("background_sky.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0px 0px 100px 0px;
+}
+
 .nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 10px 30px;
-    background-image: linear-gradient(to right, rgb(0, 255, 8), rgb(0, 34, 255));
+    background-color: rgb(67, 137, 184);
+}
+
+.nav img {
+    max-width: 100%;
 }
 
 .nav-links {
@@ -12,19 +26,69 @@
     gap: 25px;
 }
 
+.nav-links :hover{
+    background-color: rgb(99, 173, 222);
+}
+
 #home {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
+    padding: 100px 30px 0px 30px;
 }
 
-body {
-    background-image: linear-gradient(to right, rgb(255, 0, 251), rgb(251, 255, 0));
-    font-family: "Comic Relief", system-ui;
-    cursor: url(""), auto;
+#home img {
+    width: 100%;
 }
 
-a:hover {
-  background-color: yellow;
+#home_text {
+    width: 100%;
+}
+
+#products {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    padding: 0px 30px;
+}
+
+.product {
+    background-color: white;
+    padding: 0px 20px;
+    flex: 1
+}
+
+.product img {
+    width: 100%;
+}
+
+.product p {
+    width: 100%;
+}
+
+#contact {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 50px;
+    padding: 0px 30px;
+}
+
+#contact_header {
+    padding: 0px 30px;
+    margin-bottom: 0px;
+}
+
+#contacts {
+    white-space: nowrap;
+}
+
+#map img {
+    max-width: 100%;
+    width: 500px;
+    height: auto;
 }
