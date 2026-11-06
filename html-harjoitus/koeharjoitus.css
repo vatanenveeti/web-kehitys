@@ -1,0 +1,34 @@
+h1 {
+    font-size: 26px;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    font-size: 18px;
+    color: blue;
+}
+
+ul {
+    border: 1px dashed black;
+    padding: 10px;
+}
+
+li::first-letter {
+    font-size: 1.5em;
+}
+
+div {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+h2:hover {
+    color: red;
+    margin-top: 100px;
+}
+
+h1:hover {
+    color: green;
+    margin-top: 100px;
+}
