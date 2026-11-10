@@ -2,15 +2,15 @@
 
 **Veeti Vatanen**
 
+### HTLM/CSS tehtävä
+
+[Linkki: ](https://vatanenveeti.github.io/web-kehitys/HTML-CSS/index.html)
+
 ### JS-moduulit 1 ja 2
-
-[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~username/js1-folder)
-Webdik ei toimi vielä
-
 
 Tehdyt tehtävät:
 
-- Tehtävä 1: 1 p
+- Tehtävä 1: 1 p [Linkki: ](https://vatanenveeti.github.io/web-kehitys/mod01&02/01-tulostus/tulostus.html)
 - Tehtävä 2: 2 p
 - Tehtävä 3: 3 p
 - Tehtävä 4: 3 p
@@ -19,8 +19,7 @@ Tehdyt tehtävät:
 
 **Yhteensä 12p**
 
-[Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~username/js2-folder)
-Webdik ei toimi vielä
+
 
 Tehdyt tehtävät:
 
