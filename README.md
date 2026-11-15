@@ -19,7 +19,7 @@ Tehdyt tehtävät:
 
 **Yhteensä 12p**
 
-
+### JS-moduuli 3
 
 Tehdyt tehtävät:
 
@@ -31,3 +31,16 @@ Tehdyt tehtävät:
 
 
 **Yhteensä 10p**
+
+### JS-moduuli 3
+
+Tehdyt tehtävät:
+
+- Tehtävä 1: 2 p [Linkki](https://vatanenveeti.github.io/web-kehitys/mod04/module3-starters-main/t1/1.html)
+- Tehtävä 2: 2 p [Linkki](https://vatanenveeti.github.io/web-kehitys/mod04/module3-starters-main/t2/2.html)
+- Tehtävä 3: 2 p [Linkki](https://vatanenveeti.github.io/web-kehitys/mod04/module3-starters-main/t3/3.html)
+- Tehtävä 4: 2 p [Linkki](https://vatanenveeti.github.io/web-kehitys/mod04/module3-starters-main/t4/4.html)
+Tehtävä 5: 5 p [Linkki](https://vatanenveeti.github.io/web-kehitys/mod04/module3-starters-main/t5/5.html)
+
+
+**Yhteensä 13p**
