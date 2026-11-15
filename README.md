@@ -40,7 +40,7 @@ Tehdyt tehtävät:
 - Tehtävä 2: 2 p [Linkki](https://vatanenveeti.github.io/web-kehitys/mod04/module3-starters-main/t2/2.html)
 - Tehtävä 3: 2 p [Linkki](https://vatanenveeti.github.io/web-kehitys/mod04/module3-starters-main/t3/3.html)
 - Tehtävä 4: 2 p [Linkki](https://vatanenveeti.github.io/web-kehitys/mod04/module3-starters-main/t4/4.html)
-Tehtävä 5: 5 p [Linkki](https://vatanenveeti.github.io/web-kehitys/mod04/module3-starters-main/t5/5.html)
+- Tehtävä 5: 5 p [Linkki](https://vatanenveeti.github.io/web-kehitys/mod04/module3-starters-main/t5/5.html)
 
 
 **Yhteensä 13p**
